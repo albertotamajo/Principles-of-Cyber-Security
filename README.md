@@ -1,2 +1,2 @@
 # Principles-of-Cyber-Security
-:school: University of Southampton - Principles of Cyber Security (COMP2216) - Courseworks - 2020/2021
+This repository contains both Specifications and Handins for the **COMP2216-Principles of Cyber Security** coursework
